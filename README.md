@@ -1,4 +1,5 @@
 # JavaOOPpractice
+small project where you need to use wildcards (? extends, ? super) correctly.
 Project: Generic Shape Drawer 🎨
 You're building a shape drawing system. You have three classes:
 
